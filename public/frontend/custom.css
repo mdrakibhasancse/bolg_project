@@ -1,0 +1,13 @@
+span.badge:hover {
+    background-color: #30336b;
+    color: white;
+}
+
+.favorite_posts {
+    color: blue;
+}
+
+button.btn-style:hover {
+    background-color: #30336b;
+    color: white;
+}
